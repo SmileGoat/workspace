@@ -1,9 +1,9 @@
 # build directory
-bazel-bin/
-bazel-genfiles/
-bazel-out/
-bazel-testlogs/
-bazel-workspace/
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
+bazel-workspace
 
 # C++ compilation files
 *.o
