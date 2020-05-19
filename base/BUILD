@@ -5,9 +5,9 @@ package(default_visibility = ['//visibility:public'])
 
 cc_library(
   name = "compat",
-	hdrs = [
+  hdrs = [
       "basic_types.h",
       "compat.h",
-			"macros.h",
-	],
+      "macros.h",
+  ],
 )
